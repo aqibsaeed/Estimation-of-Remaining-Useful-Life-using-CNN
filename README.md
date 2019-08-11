@@ -16,4 +16,4 @@ Python 3.5 is used during development and following libraries are required to ru
 * Pandas
 
 #### Dataset
-PHM08 challenge dataset is available in the repository or can be downloaded from the following <a href="https://ti.arc.nasa.gov/tech/dash/pcoe/prognostic-data-repository/">link</a>.
+PHM08 challenge dataset is available in the repository or can be downloaded from the following <a href="https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/">link</a>.
